@@ -10,7 +10,7 @@ task3_application.py - Применение декоратора к классу
 🚀 Быстрый старт
 bash
 # Клонируйте репозиторий
-git clone https://github.com/your-username/decorators-homework.git
+git clone (https://github.com/Dmitrovskiy134/decorations.git)
 cd decorators-homework
 
 # Запустите задания
